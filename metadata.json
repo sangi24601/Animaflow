@@ -1,0 +1,5 @@
+{
+  "name": "AnimaFlow: Pro Animation Engine",
+  "description": "A high-performance frame-by-frame animation engine with virtual paging, onion skinning, and stabilized brush strokes.",
+  "requestFramePermissions": []
+}
